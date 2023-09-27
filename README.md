@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there :smiley: 
 
-<!--
-**MatStoffel/MatStoffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Mateus Becker Stoffel, sou um programador FrontEnd e atualmente estou aprendendo e criando projetos com:
+- HTML
+- CSS
+- JavaScript 
+- React 
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me: 
+
+<p>
+  <a href="https://www.Linkedin.com/in/mateus-stoffel-241576276">
+  <img aling="left" alt="Linkedin" width="72px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
